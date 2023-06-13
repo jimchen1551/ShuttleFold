@@ -1,5 +1,5 @@
 # ShuttleFold
-![ShuttleFold Architecture](https://github.com/jimchen1551/ShuttleNet/blob/main/Picture1.png?raw=true)
+![ShuttleFold Architecture](https://github.com/jimchen1551/ShuttleNet/main/Picture1.png?raw=true)
 ## Introduction
 The transformative impact of data-driven decision-making on sports analytics has unlocked vast potential for enhancing strategies, performance analysis, and viewer engagement. Among various sports, turn-based games like badminton present intriguing challenges due to their inherent variability and complexity. A pioneering study titled "ShuttleNet: Position-aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton" by Wang et al., (2021) delved into an unexplored domain of badminton analytics, aiming to predict future strokes—types and locations—based on past stroke sequences. This predictive prowess promises significant improvements in coaching strategies and the spectator experience.
 
